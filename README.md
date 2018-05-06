@@ -45,6 +45,10 @@ PoS - [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.
 
 [https://habrahabr.ru/company/neobit/blog/324456/](https://habrahabr.ru/company/neobit/blog/324456/)
 
+## Workshops
+
+1. https://github.com/androlo/solidity-workshop
+
 ## What to do next?
 
 1. Research the [https://www.myetherwallet.com    
@@ -246,4 +250,5 @@ PoS - [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.
 1. https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
 1. http://swende.se/blog/EVM-Assembly-trick.html
 1. https://gist.github.com/Arachnid/4ca9da48d51e23e5cfe0f0e14dd6318f
+1. https://www.reddit.com/r/ethereum/comments/4kt1zp/mad_blockchain_science_a_100_upgradeable_contract/
 
