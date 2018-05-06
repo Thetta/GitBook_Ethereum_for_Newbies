@@ -241,5 +241,9 @@ PoS - [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.
 
 2. [**https://github.com/ChainCloud/diligence-takehome/tree/attack**](https://github.com/ChainCloud/diligence-takehome/tree/attack)
 
+## **Upgradeability**
 
+1. https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
+1. http://swende.se/blog/EVM-Assembly-trick.html
+1. https://gist.github.com/Arachnid/4ca9da48d51e23e5cfe0f0e14dd6318f
 
